@@ -1,0 +1,4667 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: Master Timeline
+  m_EditorClassIdentifier: 
+  m_NextId: 0
+  m_Tracks:
+  - {fileID: 114660080482821474}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+  m_DurationMode: 0
+--- !u!74 &74979155974218504
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Recorded
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.85
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.3166666
+        value: {x: -3.483032, y: 41.32979, z: 0.8694458}
+        inSlope: {x: 0, y: 3.1970456, z: 0.049891874}
+        outSlope: {x: 0, y: 3.1970456, z: 0.049891874}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 14.766666
+        value: {x: 1.001435, y: 50.85432, z: 1.018082}
+        inSlope: {x: 0, y: 2.3205116, z: 0.03451161}
+        outSlope: {x: 0, y: 2.3205116, z: 0.03451161}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 19.05
+        value: {x: 0.644425, y: 68.55712, z: 1.274382}
+        inSlope: {x: -0.13803653, y: 5.997526, z: 0.037723895}
+        outSlope: {x: -0.13803653, y: 5.997526, z: 0.037723895}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.516666
+        value: {x: -0.3444211, y: 109.3302, z: 1.38589}
+        inSlope: {x: 0, y: 7.4232893, z: 0}
+        outSlope: {x: 0, y: 7.4232893, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 28.566668
+        value: {x: 0.03775054, y: 139.2021, z: 0.8584089}
+        inSlope: {x: 0.17914297, y: 6.8140793, z: -0.12712778}
+        outSlope: {x: 0.17914297, y: 6.8140793, z: -0.12712778}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 33.05
+        value: {x: 17.45433, y: 167.477, z: 0.3010664}
+        inSlope: {x: 0, y: 5.2474475, z: -0.11337718}
+        outSlope: {x: 0, y: 5.2474475, z: -0.11337718}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 39.066666
+        value: {x: 11.44749, y: 194.3003, z: -0.3320513}
+        inSlope: {x: -1.9455351, y: 6.7448, z: -0.14238259}
+        outSlope: {x: -1.9455351, y: 6.7448, z: -0.14238259}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 45.4
+        value: {x: -25.74952, y: 250.7753, z: -1.457359}
+        inSlope: {x: 0, y: 3.2143197, z: 0}
+        outSlope: {x: 0, y: 3.2143197, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 50.766666
+        value: {x: -6.564951, y: 260.1772, z: -1.30178}
+        inSlope: {x: 2.418599, y: 3.6930494, z: 0.029620564}
+        outSlope: {x: 2.418599, y: 3.6930494, z: 0.029620564}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 55.583332
+        value: {x: -0.4076023, y: 298.3764, z: -1.155723}
+        inSlope: {x: 0.76357096, y: 7.5609403, z: 0.040712748}
+        outSlope: {x: 0.76357096, y: 7.5609403, z: 0.040712748}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 65.11667
+        value: {x: 4.392294, y: 368.6767, z: 0.1979147}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 70.98333
+        value: {x: 1.628424, y: 348.0326, z: -0.2727274}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 79.666664
+        value: {x: 5.140326, y: 385.3815, z: 0.5637442}
+        inSlope: {x: 0, y: 5.615709, z: 0.10218248}
+        outSlope: {x: 0, y: 5.615709, z: 0.10218248}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 85.833336
+        value: {x: 1.278525, y: 431.4259, z: 1.244683}
+        inSlope: {x: -1.0771905, y: 6.4314256, z: 0.019233799}
+        outSlope: {x: -1.0771905, y: 6.4314256, z: 0.019233799}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 91.36667
+        value: {x: -7.462808, y: 460.6292, z: 1.300942}
+        inSlope: {x: 0, y: 3.434926, z: 0}
+        outSlope: {x: 0, y: 3.434926, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 97.666664
+        value: {x: -3.41575, y: 472.0725, z: 1.218575}
+        inSlope: {x: 0.28572592, y: 3.04478, z: -0.021915818}
+        outSlope: {x: 0.28572592, y: 3.04478, z: -0.021915818}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 106.4
+        value: {x: -2.341897, y: 543.4755, z: -0.07921553}
+        inSlope: {x: 0.2241084, y: 1.145189, z: -0.026163379}
+        outSlope: {x: 0.2241084, y: 1.145189, z: -0.026163379}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 116.833336
+        value: {x: 2.312568, y: 548.9629, z: -0.2045817}
+        inSlope: {x: 0, y: 0.9984594, z: 0}
+        outSlope: {x: 0, y: 0.9984594, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 128.38333
+        value: {x: 1.956563, y: 626.1318, z: 1.09826}
+        inSlope: {x: -0.013653577, y: 1.9152324, z: 0}
+        outSlope: {x: -0.013653577, y: 1.9152324, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 151.61667
+        value: {x: 1.837651, y: 642.7863, z: -1.281119}
+        inSlope: {x: -0.013813588, y: 0.81033117, z: 0}
+        outSlope: {x: -0.013813588, y: 0.81033117, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 162.81667
+        value: {x: -1.528499, y: 654.0342, z: -1.200247}
+        inSlope: {x: 0, y: 2.0327468, z: 0.014615412}
+        outSlope: {x: 0, y: 2.0327468, z: 0.014615412}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 173.75
+        value: {x: 8.354604, y: 725.5186, z: 0.1267793}
+        inSlope: {x: 0, y: 4.8274994, z: 2.1767862}
+        outSlope: {x: 0, y: 4.8274994, z: 2.1767862}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 184.66667
+        value: {x: -0.8774519, y: 759.5151, z: 0.8355653}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: 
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.005004883, y: -6.211624, z: -0.0009918213}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 2.45
+        value: {x: 0.0013427734, y: 7.0318756, z: -0.0016174316}
+        inSlope: {x: 0, y: 2.590515, z: 0}
+        outSlope: {x: 0, y: 2.590515, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.3166666
+        value: {x: 24.003296, y: 12.74231, z: 85.61499}
+        inSlope: {x: 7.7949505, y: 0.27309722, z: 17.889282}
+        outSlope: {x: 7.7949505, y: 0.27309722, z: 17.889282}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 14.766666
+        value: {x: 175.58548, y: 13.583221, z: 220.33472}
+        inSlope: {x: 21.38399, y: 0, z: 19.386131}
+        outSlope: {x: 21.38399, y: 0, z: 19.386131}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 19.05
+        value: {x: 274.90875, y: 3.8613129, z: 313.07892}
+        inSlope: {x: 17.21654, y: -0.83418655, z: 8.331207}
+        outSlope: {x: 17.21654, y: -0.83418655, z: 8.331207}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 21.466667
+        value: {x: 303.74646, y: 2.4640503, z: 327.0337}
+        inSlope: {x: 13.59811, y: -1.1894699, z: 6.3773627}
+        outSlope: {x: 13.59811, y: -1.1894699, z: 6.3773627}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.016666
+        value: {x: 328.84793, y: -0.85691833, z: 338.3758}
+        inSlope: {x: 18.001417, y: -3.0519085, z: 0}
+        outSlope: {x: 18.001417, y: -3.0519085, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 23.55
+        value: {x: 341.2494, y: -3.8940887, z: 337.7767}
+        inSlope: {x: 16.211344, y: 0, z: 0}
+        outSlope: {x: 16.211344, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 24.516666
+        value: {x: 353.16495, y: -0.73843384, z: 346.72626}
+        inSlope: {x: 9.500773, y: 1.298989, z: 0}
+        outSlope: {x: 9.500773, y: 1.298989, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 28.483334
+        value: {x: 475.62024, y: 2.5142584, z: 265.9324}
+        inSlope: {x: 24.059896, y: 0, z: -21.36038}
+        outSlope: {x: 24.059896, y: 0, z: -21.36038}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 28.566668
+        value: {x: 477.56293, y: 2.509195, z: 264.18527}
+        inSlope: {x: 22.552298, y: -0.121274695, z: -20.562292}
+        outSlope: {x: 22.552298, y: -0.121274695, z: -20.562292}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 33.05
+        value: {x: 545.6112, y: -9.467102, z: 171.26138}
+        inSlope: {x: 4.022113, y: -4.528389, z: -20.59253}
+        outSlope: {x: 4.022113, y: -4.528389, z: -20.59253}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 39.066666
+        value: {x: 556.16925, y: -67.93013, z: 47.96376}
+        inSlope: {x: 0, y: -3.2751706, z: -30.601473}
+        outSlope: {x: 0, y: -3.2751706, z: -30.601473}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 45.4
+        value: {x: 404.17923, y: -78.04222, z: -206.66687}
+        inSlope: {x: -24.975397, y: 0, z: -14.640565}
+        outSlope: {x: -24.975397, y: 0, z: -14.640565}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 50.766666
+        value: {x: 263.9571, y: 13.231873, z: -249.49051}
+        inSlope: {x: -22.788797, y: 0, z: -6.5626397}
+        outSlope: {x: -22.788797, y: 0, z: -6.5626397}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 55.583332
+        value: {x: 172.11337, y: 8.632996, z: -273.4964}
+        inSlope: {x: -17.379108, y: 0, z: 0}
+        outSlope: {x: -17.379108, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 60.066666
+        value: {x: 102.33139, y: 12.699158, z: -204.94803}
+        inSlope: {x: -13.982092, y: 1.4210356, z: 26.780666}
+        outSlope: {x: -13.982092, y: 1.4210356, z: 26.780666}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 65.11667
+        value: {x: 38.817383, y: 22.180206, z: -18.187286}
+        inSlope: {x: -13.706158, y: 0, z: 28.701769}
+        outSlope: {x: -13.706158, y: 0, z: 28.701769}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 70.98333
+        value: {x: -47.29413, y: -2.3825378, z: 108.37955}
+        inSlope: {x: 0, y: -0.4583049, z: 21.825954}
+        outSlope: {x: 0, y: -0.4583049, z: 21.825954}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 79.666664
+        value: {x: -41.680237, y: -4.0496216, z: 299.38025}
+        inSlope: {x: 1.5121586, y: 0, z: 21.19001}
+        outSlope: {x: 1.5121586, y: 0, z: 21.19001}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 85.833336
+        value: {x: 43.706177, y: 18.403015, z: 423.05133}
+        inSlope: {x: 29.191925, y: 3.3871472, z: 7.8187985}
+        outSlope: {x: 29.191925, y: 3.3871472, z: 7.8187985}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 91.36667
+        value: {x: 326.12192, y: 35.580017, z: 445.92133}
+        inSlope: {x: 41.942924, y: 3.844288, z: 0}
+        outSlope: {x: 41.942924, y: 3.844288, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 97.666664
+        value: {x: 540.0306, y: 63.893738, z: 372.8897}
+        inSlope: {x: 25.478792, y: 2.8195138, z: -12.865461}
+        outSlope: {x: 25.478792, y: 2.8195138, z: -12.865461}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 106.4
+        value: {x: 709.1531, y: 77.966705, z: 252.51056}
+        inSlope: {x: 0, y: 0, z: -25.122599}
+        outSlope: {x: 0, y: 0, z: -25.122599}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 116.833336
+        value: {x: 675.545, y: 58.076233, z: -163.9183}
+        inSlope: {x: -4.622118, y: -2.2294574, z: -31.275627}
+        outSlope: {x: -4.622118, y: -2.2294574, z: -31.275627}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 124.75
+        value: {x: 624.3372, y: 37.056168, z: -321.39716}
+        inSlope: {x: -10.114813, y: 0, z: -21.527674}
+        outSlope: {x: -10.114813, y: 0, z: -21.527674}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 127.7
+        value: {x: 565.63074, y: 45.014023, z: -397.85223}
+        inSlope: {x: -6.4113154, y: 0, z: -5.01474}
+        outSlope: {x: -6.4113154, y: 0, z: -5.01474}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 128.38333
+        value: {x: 559.8071, y: 44.8649, z: -402.4073}
+        inSlope: {x: -5.79945, y: -0.14850554, z: -2.3356836}
+        outSlope: {x: -5.79945, y: -0.14850554, z: -2.3356836}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 131.71666
+        value: {x: 522.1802, y: 41.909256, z: -407.2339}
+        inSlope: {x: -6.478097, y: -0.5088623, z: 0}
+        outSlope: {x: -6.478097, y: -0.5088623, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 151.61667
+        value: {x: 118.531555, y: 10.156006, z: -333.17975}
+        inSlope: {x: -18.070059, y: -0.50134194, z: 3.8276317}
+        outSlope: {x: -18.070059, y: -0.50134194, z: 3.8276317}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 162.81667
+        value: {x: -39.798767, y: 6.258072, z: -288.19452}
+        inSlope: {x: -11.061341, y: 0, z: 5.4723487}
+        outSlope: {x: -11.061341, y: 0, z: 5.4723487}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 173.75
+        value: {x: -126.292786, y: 7.3652344, z: -212.05844}
+        inSlope: {x: 0, y: 0.17260234, z: 10.208454}
+        outSlope: {x: 0, y: 0.17260234, z: 10.208454}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 184.66667
+        value: {x: -52.387573, y: 10.029434, z: -65.13974}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: 
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 5
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 6
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 184.66667
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.005004883
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2.45
+        value: 0.0013427734
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.3166666
+        value: 24.003296
+        inSlope: 7.7949505
+        outSlope: 7.7949505
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 14.766666
+        value: 175.58548
+        inSlope: 21.38399
+        outSlope: 21.38399
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 19.05
+        value: 274.90875
+        inSlope: 17.21654
+        outSlope: 17.21654
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 21.466667
+        value: 303.74646
+        inSlope: 13.59811
+        outSlope: 13.59811
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 23.016666
+        value: 328.84793
+        inSlope: 18.001417
+        outSlope: 18.001417
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 23.55
+        value: 341.2494
+        inSlope: 16.211344
+        outSlope: 16.211344
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 24.516666
+        value: 353.16495
+        inSlope: 9.500773
+        outSlope: 9.500773
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 28.566668
+        value: 477.56293
+        inSlope: 22.552298
+        outSlope: 22.552298
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 33.05
+        value: 545.6112
+        inSlope: 4.022113
+        outSlope: 4.022113
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 39.066666
+        value: 556.16925
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 45.4
+        value: 404.17923
+        inSlope: -24.975397
+        outSlope: -24.975397
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 50.766666
+        value: 263.9571
+        inSlope: -22.788797
+        outSlope: -22.788797
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 55.583332
+        value: 172.11337
+        inSlope: -17.379108
+        outSlope: -17.379108
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 60.066666
+        value: 102.33139
+        inSlope: -13.982092
+        outSlope: -13.982092
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 65.11667
+        value: 38.817383
+        inSlope: -13.706158
+        outSlope: -13.706158
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 70.98333
+        value: -47.29413
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 79.666664
+        value: -41.680237
+        inSlope: 1.5121586
+        outSlope: 1.5121586
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 85.833336
+        value: 43.706177
+        inSlope: 29.191925
+        outSlope: 29.191925
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 91.36667
+        value: 326.12192
+        inSlope: 41.942924
+        outSlope: 41.942924
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 97.666664
+        value: 540.0306
+        inSlope: 25.478792
+        outSlope: 25.478792
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 106.4
+        value: 709.1531
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 116.833336
+        value: 675.545
+        inSlope: -4.622118
+        outSlope: -4.622118
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 124.75
+        value: 624.3372
+        inSlope: -10.114813
+        outSlope: -10.114813
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 127.7
+        value: 565.63074
+        inSlope: -6.4113154
+        outSlope: -6.4113154
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 128.38333
+        value: 559.8071
+        inSlope: -5.79945
+        outSlope: -5.79945
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 131.71666
+        value: 522.1802
+        inSlope: -6.478097
+        outSlope: -6.478097
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 151.61667
+        value: 118.531555
+        inSlope: -18.070059
+        outSlope: -18.070059
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 162.81667
+        value: -39.798767
+        inSlope: -11.061341
+        outSlope: -11.061341
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 173.75
+        value: -126.292786
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 184.66667
+        value: -52.387573
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -6.211624
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2.45
+        value: 7.0318756
+        inSlope: 2.590515
+        outSlope: 2.590515
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.3166666
+        value: 12.74231
+        inSlope: 0.27309722
+        outSlope: 0.27309722
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 14.766666
+        value: 13.583221
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 19.05
+        value: 3.8613129
+        inSlope: -0.83418655
+        outSlope: -0.83418655
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 21.466667
+        value: 2.4640503
+        inSlope: -1.1894699
+        outSlope: -1.1894699
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 23.016666
+        value: -0.85691833
+        inSlope: -3.0519085
+        outSlope: -3.0519085
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 23.55
+        value: -3.8940887
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 24.516666
+        value: -0.73843384
+        inSlope: 1.298989
+        outSlope: 1.298989
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 28.483334
+        value: 2.5142584
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 33.05
+        value: -9.467102
+        inSlope: -4.528389
+        outSlope: -4.528389
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 39.066666
+        value: -67.93013
+        inSlope: -3.2751706
+        outSlope: -3.2751706
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 45.4
+        value: -78.04222
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 50.766666
+        value: 13.231873
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 55.583332
+        value: 8.632996
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 60.066666
+        value: 12.699158
+        inSlope: 1.4210356
+        outSlope: 1.4210356
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 65.11667
+        value: 22.180206
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 70.98333
+        value: -2.3825378
+        inSlope: -0.4583049
+        outSlope: -0.4583049
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 79.666664
+        value: -4.0496216
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 85.833336
+        value: 18.403015
+        inSlope: 3.3871472
+        outSlope: 3.3871472
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 91.36667
+        value: 35.580017
+        inSlope: 3.844288
+        outSlope: 3.844288
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 97.666664
+        value: 63.893738
+        inSlope: 2.8195138
+        outSlope: 2.8195138
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 106.4
+        value: 77.966705
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 116.833336
+        value: 58.076233
+        inSlope: -2.2294574
+        outSlope: -2.2294574
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 124.75
+        value: 37.056168
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 127.7
+        value: 45.014023
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 128.38333
+        value: 44.8649
+        inSlope: -0.14850554
+        outSlope: -0.14850554
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 131.71666
+        value: 41.909256
+        inSlope: -0.5088623
+        outSlope: -0.5088623
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 151.61667
+        value: 10.156006
+        inSlope: -0.50134194
+        outSlope: -0.50134194
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 162.81667
+        value: 6.258072
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 173.75
+        value: 7.3652344
+        inSlope: 0.17260234
+        outSlope: 0.17260234
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 184.66667
+        value: 10.029434
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0009918213
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2.45
+        value: -0.0016174316
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.3166666
+        value: 85.61499
+        inSlope: 17.889282
+        outSlope: 17.889282
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 14.766666
+        value: 220.33472
+        inSlope: 19.386131
+        outSlope: 19.386131
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 19.05
+        value: 313.07892
+        inSlope: 8.331207
+        outSlope: 8.331207
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 21.466667
+        value: 327.0337
+        inSlope: 6.3773627
+        outSlope: 6.3773627
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 23.016666
+        value: 338.3758
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 23.55
+        value: 337.7767
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 24.516666
+        value: 346.72626
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 28.566668
+        value: 264.18527
+        inSlope: -20.562292
+        outSlope: -20.562292
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 33.05
+        value: 171.26138
+        inSlope: -20.59253
+        outSlope: -20.59253
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 39.066666
+        value: 47.96376
+        inSlope: -30.601473
+        outSlope: -30.601473
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 45.4
+        value: -206.66687
+        inSlope: -14.640565
+        outSlope: -14.640565
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 50.766666
+        value: -249.49051
+        inSlope: -6.5626397
+        outSlope: -6.5626397
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 55.583332
+        value: -273.4964
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 60.066666
+        value: -204.94803
+        inSlope: 26.780666
+        outSlope: 26.780666
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 65.11667
+        value: -18.187286
+        inSlope: 28.701769
+        outSlope: 28.701769
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 70.98333
+        value: 108.37955
+        inSlope: 21.825954
+        outSlope: 21.825954
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 79.666664
+        value: 299.38025
+        inSlope: 21.19001
+        outSlope: 21.19001
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 85.833336
+        value: 423.05133
+        inSlope: 7.8187985
+        outSlope: 7.8187985
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 91.36667
+        value: 445.92133
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 97.666664
+        value: 372.8897
+        inSlope: -12.865461
+        outSlope: -12.865461
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 106.4
+        value: 252.51056
+        inSlope: -25.122599
+        outSlope: -25.122599
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 116.833336
+        value: -163.9183
+        inSlope: -31.275627
+        outSlope: -31.275627
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 124.75
+        value: -321.39716
+        inSlope: -21.527674
+        outSlope: -21.527674
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 127.7
+        value: -397.85223
+        inSlope: -5.01474
+        outSlope: -5.01474
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 128.38333
+        value: -402.4073
+        inSlope: -2.3356836
+        outSlope: -2.3356836
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 131.71666
+        value: -407.2339
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 151.61667
+        value: -333.17975
+        inSlope: 3.8276317
+        outSlope: 3.8276317
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 162.81667
+        value: -288.19452
+        inSlope: 5.4723487
+        outSlope: 5.4723487
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 173.75
+        value: -212.05844
+        inSlope: 10.208454
+        outSlope: 10.208454
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 184.66667
+        value: -65.13974
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2.85
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.3166666
+        value: -3.483032
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 14.766666
+        value: 1.001435
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 19.05
+        value: 0.644425
+        inSlope: -0.13803653
+        outSlope: -0.13803653
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 24.516666
+        value: -0.3444211
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 28.566668
+        value: 0.03775054
+        inSlope: 0.17914297
+        outSlope: 0.17914297
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 33.05
+        value: 17.45433
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 39.066666
+        value: 11.44749
+        inSlope: -1.9455351
+        outSlope: -1.9455351
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 45.4
+        value: -25.74952
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 50.766666
+        value: -6.564951
+        inSlope: 2.418599
+        outSlope: 2.418599
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 55.583332
+        value: -0.4076023
+        inSlope: 0.76357096
+        outSlope: 0.76357096
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 65.11667
+        value: 4.392294
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 70.98333
+        value: 1.628424
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 79.666664
+        value: 5.140326
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 85.833336
+        value: 1.278525
+        inSlope: -1.0771905
+        outSlope: -1.0771905
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 91.36667
+        value: -7.462808
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 97.666664
+        value: -3.41575
+        inSlope: 0.28572592
+        outSlope: 0.28572592
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 106.4
+        value: -2.341897
+        inSlope: 0.2241084
+        outSlope: 0.2241084
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 116.833336
+        value: 2.312568
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 128.38333
+        value: 1.956563
+        inSlope: -0.013653577
+        outSlope: -0.013653577
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 151.61667
+        value: 1.837651
+        inSlope: -0.013813588
+        outSlope: -0.013813588
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 162.81667
+        value: -1.528499
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 173.75
+        value: 8.354604
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 184.66667
+        value: -0.8774519
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2.85
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.3166666
+        value: 41.32979
+        inSlope: 3.1970456
+        outSlope: 3.1970456
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 14.766666
+        value: 50.85432
+        inSlope: 2.3205116
+        outSlope: 2.3205116
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 19.05
+        value: 68.55712
+        inSlope: 5.997526
+        outSlope: 5.997526
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 24.516666
+        value: 109.3302
+        inSlope: 7.4232893
+        outSlope: 7.4232893
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 28.566668
+        value: 139.2021
+        inSlope: 6.8140793
+        outSlope: 6.8140793
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 33.05
+        value: 167.477
+        inSlope: 5.2474475
+        outSlope: 5.2474475
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 39.066666
+        value: 194.3003
+        inSlope: 6.7448
+        outSlope: 6.7448
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 45.4
+        value: 250.7753
+        inSlope: 3.2143197
+        outSlope: 3.2143197
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 50.766666
+        value: 260.1772
+        inSlope: 3.6930494
+        outSlope: 3.6930494
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 55.583332
+        value: 298.3764
+        inSlope: 7.5609403
+        outSlope: 7.5609403
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 65.11667
+        value: 368.6767
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 70.98333
+        value: 348.0326
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 79.666664
+        value: 385.3815
+        inSlope: 5.615709
+        outSlope: 5.615709
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 85.833336
+        value: 431.4259
+        inSlope: 6.4314256
+        outSlope: 6.4314256
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 91.36667
+        value: 460.6292
+        inSlope: 3.434926
+        outSlope: 3.434926
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 97.666664
+        value: 472.0725
+        inSlope: 3.04478
+        outSlope: 3.04478
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 106.4
+        value: 543.4755
+        inSlope: 1.145189
+        outSlope: 1.145189
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 116.833336
+        value: 548.9629
+        inSlope: 0.9984594
+        outSlope: 0.9984594
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 128.38333
+        value: 626.1318
+        inSlope: 1.9152324
+        outSlope: 1.9152324
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 151.61667
+        value: 642.7863
+        inSlope: 0.81033117
+        outSlope: 0.81033117
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 162.81667
+        value: 654.0342
+        inSlope: 2.0327468
+        outSlope: 2.0327468
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 173.75
+        value: 725.5186
+        inSlope: 4.8274994
+        outSlope: 4.8274994
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 184.66667
+        value: 759.5151
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 2.85
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.3166666
+        value: 0.8694458
+        inSlope: 0.049891874
+        outSlope: 0.049891874
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 14.766666
+        value: 1.018082
+        inSlope: 0.03451161
+        outSlope: 0.03451161
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 19.05
+        value: 1.274382
+        inSlope: 0.037723895
+        outSlope: 0.037723895
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 24.516666
+        value: 1.38589
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 28.566668
+        value: 0.8584089
+        inSlope: -0.12712778
+        outSlope: -0.12712778
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 33.05
+        value: 0.3010664
+        inSlope: -0.11337718
+        outSlope: -0.11337718
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 39.066666
+        value: -0.3320513
+        inSlope: -0.14238259
+        outSlope: -0.14238259
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 45.4
+        value: -1.457359
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 50.766666
+        value: -1.30178
+        inSlope: 0.029620564
+        outSlope: 0.029620564
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 55.583332
+        value: -1.155723
+        inSlope: 0.040712748
+        outSlope: 0.040712748
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 65.11667
+        value: 0.1979147
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 70.98333
+        value: -0.2727274
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 79.666664
+        value: 0.5637442
+        inSlope: 0.10218248
+        outSlope: 0.10218248
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 85.833336
+        value: 1.244683
+        inSlope: 0.019233799
+        outSlope: 0.019233799
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 91.36667
+        value: 1.300942
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 97.666664
+        value: 1.218575
+        inSlope: -0.021915818
+        outSlope: -0.021915818
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 106.4
+        value: -0.07921553
+        inSlope: -0.026163379
+        outSlope: -0.026163379
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 116.833336
+        value: -0.2045817
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 128.38333
+        value: 1.09826
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 151.61667
+        value: -1.281119
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 162.81667
+        value: -1.200247
+        inSlope: 0.014615412
+        outSlope: 0.014615412
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 173.75
+        value: 0.1267793
+        inSlope: 2.1767862
+        outSlope: 2.1767862
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 184.66667
+        value: 0.8355653
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 1
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 1
+  m_Events: []
+--- !u!114 &114005191222192914
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: 9d0ba7c91f4174045b8d1ee1dae06cfa, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114027156245041432
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: bfb3be2e1e9f60040b4c161d83abdcb4, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114033262707702142
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1544527758, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: Slackbar Citizens
+  m_EditorClassIdentifier: 
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_AnimClip: {fileID: 0}
+  m_Parent: {fileID: 114587801028660732}
+  m_Children:
+  - {fileID: 114575408676722564}
+  - {fileID: 114795426230294810}
+  - {fileID: 114244424572590104}
+  m_Clips: []
+--- !u!114 &114040589048047850
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1670381969, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: ControlPlayableAsset
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: 6294f904911eca04998cbf458780d9f6
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 6602
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 1
+  active: 1
+  postPlayback: 2
+--- !u!114 &114045546367794944
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e622fb3a44c8b0646af54f4c7760e4cf, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114057669088100188
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1095772578, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: Wave (2-1)
+  m_EditorClassIdentifier: 
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_AnimClip: {fileID: 0}
+  m_Parent: {fileID: 114587801028660732}
+  m_Children: []
+  m_Clips:
+  - m_Start: 32.4
+    m_ClipIn: 0
+    m_Asset: {fileID: 114400381839857704}
+    m_Duration: 15.799999999999997
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114057669088100188}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: ControlPlayableAsset
+    m_Version: 1
+--- !u!114 &114059089303525516
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: c246ae3bc631236479c7386e4f318d97, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114103033782401992
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e622fb3a44c8b0646af54f4c7760e4cf, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114176300080706750
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1670381969, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: ControlPlayableAsset
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: b8a790cf630dd864197179233cabd82a
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 6602
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 1
+  active: 1
+  postPlayback: 2
+--- !u!114 &114187033093527544
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1670381969, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: ControlPlayableAsset
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: 3a4e26d8670aea74eb87cf2e5b326a0b
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 6602
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 1
+  active: 1
+  postPlayback: 2
+--- !u!114 &114189092343669034
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: ed3ad13fb7bc0f542a4bcb67f6702e4d, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114199749593080456
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e45e2b664c1886344a0ef734ea8eca2e, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114239593242154222
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e622fb3a44c8b0646af54f4c7760e4cf, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114240077786785274
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1095772578, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: Wave (2-2)
+  m_EditorClassIdentifier: 
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_AnimClip: {fileID: 0}
+  m_Parent: {fileID: 114587801028660732}
+  m_Children: []
+  m_Clips:
+  - m_Start: 48.199999999999996
+    m_ClipIn: 0
+    m_Asset: {fileID: 114779294353856734}
+    m_Duration: 20.06110026041667
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114240077786785274}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: ControlPlayableAsset
+    m_Version: 1
+--- !u!114 &114240489072213190
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: f2754405c54d71548872367147eed6fd, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114244424572590104
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2113462093, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: Audio Track
+  m_EditorClassIdentifier: 
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_AnimClip: {fileID: 0}
+  m_Parent: {fileID: 114033262707702142}
+  m_Children: []
+  m_Clips:
+  - m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: 114199749593080456}
+    m_Duration: 88.65959183673469
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114244424572590104}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: NEW Space Trip
+    m_Version: 1
+  - m_Start: 88.65959183673469
+    m_ClipIn: 0
+    m_Asset: {fileID: 114967262471482612}
+    m_Duration: 88.65959183673469
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114244424572590104}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: NEW Space Trip
+    m_Version: 1
+  - m_Start: 177.31918367346938
+    m_ClipIn: 0
+    m_Asset: {fileID: 114843956414803504}
+    m_Duration: 7.5141496598639606
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114244424572590104}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: NEW Space Trip
+    m_Version: 1
+  - m_Start: 197.60591836734696
+    m_ClipIn: 0
+    m_Asset: {fileID: 114693028852129864}
+    m_Duration: 51.33931972789116
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114244424572590104}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Boss Fight
+    m_Version: 1
+  - m_Start: 248.94523809523812
+    m_ClipIn: 0
+    m_Asset: {fileID: 114239593242154222}
+    m_Duration: 51.33931972789116
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114244424572590104}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Boss Fight
+    m_Version: 1
+  - m_Start: 300.28455782312926
+    m_ClipIn: 0
+    m_Asset: {fileID: 114467383171222598}
+    m_Duration: 51.33931972789116
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114244424572590104}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Boss Fight
+    m_Version: 1
+  - m_Start: 351.6238775510204
+    m_ClipIn: 0
+    m_Asset: {fileID: 114103033782401992}
+    m_Duration: 10.759455782312898
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114244424572590104}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Boss Fight
+    m_Version: 1
+  - m_Start: 363.61231292517004
+    m_ClipIn: 0
+    m_Asset: {fileID: 114189092343669034}
+    m_Duration: 1.2289795918367348
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114244424572590104}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: NEW 8 Did it
+    m_Version: 1
+  - m_Start: 364.84129251700676
+    m_ClipIn: 0
+    m_Asset: {fileID: 114583209258692522}
+    m_Duration: 2.2473242630385486
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114244424572590104}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: 196870__ionicsmusic__race-robot-you-won
+    m_Version: 1
+  - m_Start: 367.0886167800453
+    m_ClipIn: 0
+    m_Asset: {fileID: 114700331443770018}
+    m_Duration: 10.1695
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114244424572590104}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: 423692__eardeer__wedidit
+    m_Version: 1
+--- !u!114 &114253236054936684
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: 8634ad469194ca045b84325bedc3c928, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114263800537173896
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1670381969, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: ControlPlayableAsset
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: b9a0ab92d0c4ea34a8422d31f74cdcaa
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 6602
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 1
+  active: 1
+  postPlayback: 2
+--- !u!114 &114287360647935700
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1670381969, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: ControlPlayableAsset
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: 10f1f58d3d149e34da1f7773cf5f6d7f
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 6602
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 1
+  active: 1
+  postPlayback: 2
+--- !u!114 &114292568505267138
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1670381969, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: ControlPlayableAsset
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: 6bbe87667716f444a87bfa568cb33654
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 3192
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 1
+  active: 1
+  postPlayback: 2
+--- !u!114 &114302891267845054
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: 8720c6dec7365da41b6f9b2ab374e44d, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114311015015895650
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: 4de802b13cf2798439a3add862da3185, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114393126922118456
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1670381969, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: ControlPlayableAsset
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: 05d0337c74f444e459d1c7840b7cfe1e
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 7977
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 1
+  active: 1
+  postPlayback: 2
+--- !u!114 &114400381839857704
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1670381969, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: ControlPlayableAsset
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: 28b3309275e79ef4491ab5aa84ee508b
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 5174
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 1
+  active: 1
+  postPlayback: 2
+--- !u!114 &114417336910994464
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1095772578, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: Wave (1-2)
+  m_EditorClassIdentifier: 
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_AnimClip: {fileID: 0}
+  m_Parent: {fileID: 114587801028660732}
+  m_Children: []
+  m_Clips:
+  - m_Start: 9.916666666666666
+    m_ClipIn: 0
+    m_Asset: {fileID: 114393126922118456}
+    m_Duration: 26.03333333333333
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114417336910994464}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: ControlPlayableAsset
+    m_Version: 1
+--- !u!114 &114432420108317852
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: 96ece6a585a0fa745a31eeb102c604c1, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114440466684786756
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1670381969, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: ControlPlayableAsset
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: 16a9523ac3c5e184887b9e98dd5ddd58
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 6602
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 1
+  active: 1
+  postPlayback: 2
+--- !u!114 &114450640139081308
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1467732076, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: Animation Track
+  m_EditorClassIdentifier: 
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_AnimClip: {fileID: 74979155974218504}
+  m_Parent: {fileID: 114660080482821474}
+  m_Children: []
+  m_Clips: []
+  m_OpenClipPreExtrapolation: 1
+  m_OpenClipPostExtrapolation: 1
+  m_OpenClipOffsetPosition: {x: 546.5, y: 139.8, z: 356.2}
+  m_OpenClipOffsetRotation: {x: 0.0010124267, y: -0.9959948, z: -0.011413939, w: -0.08867411}
+  m_OpenClipTimeOffset: 0
+  m_MatchTargetFields: 63
+  m_Position: {x: 0, y: 0, z: 0}
+  m_Rotation: {x: 0, y: 0, z: 0, w: 1}
+  m_ApplyOffsets: 0
+  m_AvatarMask: {fileID: 0}
+  m_ApplyAvatarMask: 1
+--- !u!114 &114460649381309528
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: 7e76e012ae2597f40a3afe9265622a51, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114467383171222598
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e622fb3a44c8b0646af54f4c7760e4cf, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114473291522378322
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: 5828c7fca211fdb4cb1437cf46863f73, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114518653544510306
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: 94f8f1a3d43fdad42911a09960957719, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114539303112635994
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: 37302ce198d205049b124e284111b22f, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114545930621598062
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1095772578, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: Wave (5-1)
+  m_EditorClassIdentifier: 
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_AnimClip: {fileID: 0}
+  m_Parent: {fileID: 114587801028660732}
+  m_Children: []
+  m_Clips:
+  - m_Start: 144.75
+    m_ClipIn: 0
+    m_Asset: {fileID: 114706169868464180}
+    m_Duration: 40.08333333333334
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114545930621598062}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: ControlPlayableAsset
+    m_Version: 1
+--- !u!114 &114564127218494382
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: c7d9a4ad5a5f91147ab476ec60379474, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114575408676722564
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1095772578, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: Slackbar People
+  m_EditorClassIdentifier: 
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_AnimClip: {fileID: 0}
+  m_Parent: {fileID: 114033262707702142}
+  m_Children: []
+  m_Clips:
+  - m_Start: 2.183333333333333
+    m_ClipIn: 0
+    m_Asset: {fileID: 114040589048047850}
+    m_Duration: 0.9268707482993197
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114575408676722564}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: ControlPlayableAsset
+    m_Version: 1
+  - m_Start: 14.683333333333334
+    m_ClipIn: 0
+    m_Asset: {fileID: 114263800537173896}
+    m_Duration: 2.1984353741496605
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114575408676722564}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: ControlPlayableAsset
+    m_Version: 1
+  - m_Start: 29.601657104492187
+    m_ClipIn: 0
+    m_Asset: {fileID: 114640953466114500}
+    m_Duration: 1.3759410430839019
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114575408676722564}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: ControlPlayableAsset
+    m_Version: 1
+  - m_Start: 48.492059326171876
+    m_ClipIn: 0
+    m_Asset: {fileID: 114187033093527544}
+    m_Duration: 2.0448752834467143
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114575408676722564}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: ControlPlayableAsset
+    m_Version: 1
+  - m_Start: 65.29860127766929
+    m_ClipIn: 0
+    m_Asset: {fileID: 114732973956472744}
+    m_Duration: 1.983151927437639
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114575408676722564}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: ControlPlayableAsset
+    m_Version: 1
+  - m_Start: 100.42945578231293
+    m_ClipIn: 0
+    m_Asset: {fileID: 114287360647935700}
+    m_Duration: 1.6038775510204033
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114575408676722564}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: ControlPlayableAsset
+    m_Version: 1
+  - m_Start: 135.03333333333333
+    m_ClipIn: 0
+    m_Asset: {fileID: 114748603651067242}
+    m_Duration: 2.4704535147392335
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114575408676722564}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: ControlPlayableAsset
+    m_Version: 1
+  - m_Start: 156.2
+    m_ClipIn: 0
+    m_Asset: {fileID: 114440466684786756}
+    m_Duration: 1.024172335600909
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114575408676722564}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: ControlPlayableAsset
+    m_Version: 1
+  - m_Start: 184.83333333333334
+    m_ClipIn: 0
+    m_Asset: {fileID: 114584637269742324}
+    m_Duration: 2.85863945578231
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114575408676722564}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: ControlPlayableAsset
+    m_Version: 1
+  - m_Start: 363.61231292517004
+    m_ClipIn: 0
+    m_Asset: {fileID: 114176300080706750}
+    m_Duration: 1.228979591836719
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114575408676722564}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: ControlPlayableAsset
+    m_Version: 1
+--- !u!114 &114583209258692522
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: 5828c7fca211fdb4cb1437cf46863f73, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114584637269742324
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1670381969, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: ControlPlayableAsset
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: a67f0f39be60f384da31329c840292c4
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 6602
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 1
+  active: 1
+  postPlayback: 2
+--- !u!114 &114587801028660732
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1544527758, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: Enemy Waves
+  m_EditorClassIdentifier: 
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_AnimClip: {fileID: 0}
+  m_Parent: {fileID: 114660080482821474}
+  m_Children:
+  - {fileID: 114955699174743532}
+  - {fileID: 114417336910994464}
+  - {fileID: 114057669088100188}
+  - {fileID: 114240077786785274}
+  - {fileID: 114905480593926418}
+  - {fileID: 114870834286967518}
+  - {fileID: 114545930621598062}
+  - {fileID: 114684339418250454}
+  - {fileID: 114033262707702142}
+  m_Clips: []
+--- !u!114 &114593963775519284
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: b3fe7eeb00a1ea84baea7a3095489b81, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114619375708979916
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: 37920242a868f504497a905710813461, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114632091720637154
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: 9d0ba7c91f4174045b8d1ee1dae06cfa, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114640953466114500
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1670381969, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: ControlPlayableAsset
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: b0e16c1ba28af9544937d08144f32161
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 6602
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 1
+  active: 1
+  postPlayback: 2
+--- !u!114 &114660080482821474
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1544527758, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: Master Timeline
+  m_EditorClassIdentifier: 
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_AnimClip: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children:
+  - {fileID: 114450640139081308}
+  - {fileID: 114587801028660732}
+  m_Clips: []
+--- !u!114 &114684339418250454
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1095772578, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: Boss Fight
+  m_EditorClassIdentifier: 
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_AnimClip: {fileID: 0}
+  m_Parent: {fileID: 114587801028660732}
+  m_Children: []
+  m_Clips:
+  - m_Start: 197.60591836734696
+    m_ClipIn: 3.4666666666666686
+    m_Asset: {fileID: 114292568505267138}
+    m_Duration: 164.77741496598637
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114684339418250454}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: ControlPlayableAsset
+    m_Version: 1
+--- !u!114 &114693028852129864
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e622fb3a44c8b0646af54f4c7760e4cf, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114700331443770018
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: c246ae3bc631236479c7386e4f318d97, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114706169868464180
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1670381969, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: ControlPlayableAsset
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: c9c7360f71869b14096daa5a38e66008
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 9991
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 1
+  active: 1
+  postPlayback: 2
+--- !u!114 &114732973956472744
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1670381969, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: ControlPlayableAsset
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: 26a10ff3aeaca834190be2b21afeea1e
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 6602
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 1
+  active: 1
+  postPlayback: 2
+--- !u!114 &114735983519780338
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: 98483afbfff16d547bf775fe752abac4, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114748603651067242
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1670381969, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: ControlPlayableAsset
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: 1e9fc21b2c797b64ba519185c18595ce
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 6602
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 1
+  active: 1
+  postPlayback: 2
+--- !u!114 &114779294353856734
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1670381969, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: ControlPlayableAsset
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: ef05da229f1fe0e4dada2e7c4b6cdd80
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 9798
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 1
+  active: 1
+  postPlayback: 2
+--- !u!114 &114795426230294810
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2113462093, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: Audio Track
+  m_EditorClassIdentifier: 
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_AnimClip: {fileID: 0}
+  m_Parent: {fileID: 114033262707702142}
+  m_Children: []
+  m_Clips:
+  - m_Start: 2.1833333333333336
+    m_ClipIn: 0
+    m_Asset: {fileID: 114593963775519284}
+    m_Duration: 0.9268707482993197
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114795426230294810}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: NEW 1 Under Atack
+    m_Version: 1
+  - m_Start: 14.683333333333334
+    m_ClipIn: 0
+    m_Asset: {fileID: 114883432257243566}
+    m_Duration: 2.19843537414966
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114795426230294810}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: NEW 3 Generators
+    m_Version: 1
+  - m_Start: 29.601657104492187
+    m_ClipIn: 0
+    m_Asset: {fileID: 114311015015895650}
+    m_Duration: 1.3759410430839003
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114795426230294810}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: NEW Gorge
+    m_Version: 1
+  - m_Start: 48.492059326171876
+    m_ClipIn: 0
+    m_Asset: {fileID: 114253236054936684}
+    m_Duration: 2.044875283446712
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114795426230294810}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: NEW 2 Incoming in Sector 5
+    m_Version: 1
+  - m_Start: 65.29860127766929
+    m_ClipIn: 0
+    m_Asset: {fileID: 114967956824418654}
+    m_Duration: 1.9831519274376417
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114795426230294810}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: NEW Habitats
+    m_Version: 1
+  - m_Start: 100.42945578231293
+    m_ClipIn: 0
+    m_Asset: {fileID: 114619375708979916}
+    m_Duration: 1.6038775510204082
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114795426230294810}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: NEW 4 Mines
+    m_Version: 1
+  - m_Start: 135.03333333333333
+    m_ClipIn: 0
+    m_Asset: {fileID: 114832013581367032}
+    m_Duration: 2.470453514739229
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114795426230294810}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: NEW 5 Phew
+    m_Version: 1
+  - m_Start: 156.2
+    m_ClipIn: 0
+    m_Asset: {fileID: 114460649381309528}
+    m_Duration: 1.024172335600907
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114795426230294810}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: NEW 6 Everywhere
+    m_Version: 1
+  - m_Start: 184.83333333333334
+    m_ClipIn: 0
+    m_Asset: {fileID: 114302891267845054}
+    m_Duration: 2.858639455782313
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114795426230294810}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: NEW 7 Mercy
+    m_Version: 1
+  - m_Start: 188.20000000000002
+    m_ClipIn: 0
+    m_Asset: {fileID: 114632091720637154}
+    m_Duration: 9.405918367346938
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114795426230294810}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Incoming boss
+    m_Version: 1
+--- !u!114 &114827866342959732
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: 5effe219692869340ab342f873c8671d, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114832013581367032
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: 0cfb34841b4a5b846870bcc9be15befe, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114843956414803504
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e45e2b664c1886344a0ef734ea8eca2e, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114847950021891194
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1670381969, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: ControlPlayableAsset
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: 39214ba8384b0af498c3674776d71e8b
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 7007
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 1
+  active: 1
+  postPlayback: 2
+--- !u!114 &114870834286967518
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1095772578, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: Wave (4-1)
+  m_EditorClassIdentifier: 
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_AnimClip: {fileID: 0}
+  m_Parent: {fileID: 114587801028660732}
+  m_Children: []
+  m_Clips:
+  - m_Start: 72.43333333333334
+    m_ClipIn: 0
+    m_Asset: {fileID: 114901174801190774}
+    m_Duration: 51.95
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114870834286967518}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: ControlPlayableAsset
+    m_Version: 1
+--- !u!114 &114883432257243566
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: af093c2107814fb4982adb3b7fc291e0, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114901174801190774
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1670381969, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: ControlPlayableAsset
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: 4d59266d86476fc419619ef3f1c1588f
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 2772
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 1
+  active: 1
+  postPlayback: 2
+--- !u!114 &114901292655630392
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: a3843e1838c1d3443a15acd8951243bd, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114905480593926418
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1095772578, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: Wave (3-1)
+  m_EditorClassIdentifier: 
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_AnimClip: {fileID: 0}
+  m_Parent: {fileID: 114587801028660732}
+  m_Children: []
+  m_Clips:
+  - m_Start: 67.28175320510692
+    m_ClipIn: 0
+    m_Asset: {fileID: 114847950021891194}
+    m_Duration: 22.733333333333327
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114905480593926418}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: ControlPlayableAsset
+    m_Version: 1
+--- !u!114 &114955699174743532
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1095772578, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: Wave (1-1)
+  m_EditorClassIdentifier: 
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_AnimClip: {fileID: 0}
+  m_Parent: {fileID: 114587801028660732}
+  m_Children: []
+  m_Clips:
+  - m_Start: 3.110204081632653
+    m_ClipIn: 0
+    m_Asset: {fileID: 114992852078044786}
+    m_Duration: 14.792545572916666
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 114955699174743532}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: ControlPlayableAsset
+    m_Version: 1
+--- !u!114 &114967262471482612
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: e45e2b664c1886344a0ef734ea8eca2e, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114967956824418654
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1977359656, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Clip: {fileID: 8300000, guid: 5c0fab0f647896646900772b2d0a97af, type: 3}
+  m_Loop: 0
+  m_bufferingTime: 0.1
+--- !u!114 &114992852078044786
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1670381969, guid: 6a10b2909283487f913b00d94cd3faf5, type: 3}
+  m_Name: ControlPlayableAsset
+  m_EditorClassIdentifier: 
+  sourceGameObject:
+    exposedName: fade820101719cd4b9fd3074d3005638
+    defaultValue: {fileID: 0}
+  prefabGameObject: {fileID: 0}
+  updateParticle: 1
+  particleRandomSeed: 9924
+  updateDirector: 1
+  updateITimeControl: 1
+  searchHierarchy: 1
+  active: 1
+  postPlayback: 2
