@@ -274,6 +274,25 @@ Prefab:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 82386611229456784, guid: 19a67eda29a58bf44a25580b3f6a3682,
+        type: 2}
+      propertyPath: spreadCustomCurve.m_RotationOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 82386611229456784, guid: 19a67eda29a58bf44a25580b3f6a3682,
+        type: 2}
+      propertyPath: m_Volume
+      value: 0.324
+      objectReference: {fileID: 0}
+    - target: {fileID: 82386611229456784, guid: 19a67eda29a58bf44a25580b3f6a3682,
+        type: 2}
+      propertyPath: Loop
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1615671050344858, guid: 19a67eda29a58bf44a25580b3f6a3682, type: 2}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 19a67eda29a58bf44a25580b3f6a3682, type: 2}
   m_IsPrefabParent: 0
